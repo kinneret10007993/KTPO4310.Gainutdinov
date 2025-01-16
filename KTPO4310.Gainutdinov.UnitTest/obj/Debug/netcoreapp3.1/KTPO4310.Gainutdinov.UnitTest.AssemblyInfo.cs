@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KTPO4310.Gainutdinov.UnitTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+663f83b1ac686f86a7ac914d199667a13a2946f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3fe662936693b538a65d4f14880fdd84c1dd3d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("KTPO4310.Gainutdinov.UnitTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KTPO4310.Gainutdinov.UnitTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
