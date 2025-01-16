@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTPO4310.Gainutdinov.UnitTe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTPO4310.Gainutdinov.Lib", "KTPO4310.Gainutdinov.Lib\KTPO4310.Gainutdinov.Lib.csproj", "{871D135F-FC51-40CC-BEF3-0EF89FF3082B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTPO4310.Gainutdinov.Service", "KTPO4310.Gainutdinov.Service\KTPO4310.Gainutdinov.Service.csproj", "{812450D4-FB92-4ACC-ABF9-38E90B6C0936}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{871D135F-FC51-40CC-BEF3-0EF89FF3082B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{871D135F-FC51-40CC-BEF3-0EF89FF3082B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{871D135F-FC51-40CC-BEF3-0EF89FF3082B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{812450D4-FB92-4ACC-ABF9-38E90B6C0936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{812450D4-FB92-4ACC-ABF9-38E90B6C0936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{812450D4-FB92-4ACC-ABF9-38E90B6C0936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{812450D4-FB92-4ACC-ABF9-38E90B6C0936}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
