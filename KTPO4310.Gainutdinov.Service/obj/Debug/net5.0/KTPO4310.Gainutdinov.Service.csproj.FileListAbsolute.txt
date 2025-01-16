@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\KTPO4310.Gainutdinov\KTPO4310.Gainutdinov.Service\obj\Debug\net5.0\KTPO4310.Gainutdinov.Service.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\KTPO4310.Gainutdinov\KTPO4310.Gainutdinov.Service\obj\Debug\net5.0\KTPO4310.Gainutdinov.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\KTPO4310.Gainutdinov\KTPO4310.Gainutdinov.Service\obj\Debug\net5.0\KTPO4310.Gainutdinov.Service.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\KTPO4310.Gainutdinov\KTPO4310.Gainutdinov.Service\obj\Debug\net5.0\KTPO4310.Gainutdinov.Service.AssemblyInfo.cs
+C:\Users\User\source\repos\KTPO4310.Gainutdinov\KTPO4310.Gainutdinov.Service\obj\Debug\net5.0\KTPO4310.Gainutdinov.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\KTPO4310.Gainutdinov\KTPO4310.Gainutdinov.Service\obj\Debug\net5.0\KTPO4310.Gainutdinov.Service.sourcelink.json

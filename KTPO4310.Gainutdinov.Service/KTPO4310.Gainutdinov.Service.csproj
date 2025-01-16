@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+		<OutputType>Exe</OutputType>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.2" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\ClassLibrary1KTPO4310.Gainutdinov.Lib\KTPO4310.Gainutdinov.Lib.csproj" />
+		<ProjectReference Include="..\KTPO4310.Gainutdinov.Lib\KTPO4310.Gainutdinov.Lib.csproj" />
+	</ItemGroup>
+
+</Project>

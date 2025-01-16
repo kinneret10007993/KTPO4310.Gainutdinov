@@ -8,3 +8,4 @@ C:\Users\User\source\repos\KTPO4310.Gainutdinov\KTPO4310.Gainutdinov.Lib\obj\Deb
 C:\Users\User\source\repos\KTPO4310.Gainutdinov\KTPO4310.Gainutdinov.Lib\obj\Debug\netcoreapp3.1\KTPO4310.Gainutdinov.Lib.sourcelink.json
 C:\Users\User\source\repos\KTPO4310.Gainutdinov\KTPO4310.Gainutdinov.Lib\obj\Debug\netcoreapp3.1\KTPO4310.Gainutdinov.Lib.dll
 C:\Users\User\source\repos\KTPO4310.Gainutdinov\KTPO4310.Gainutdinov.Lib\obj\Debug\netcoreapp3.1\KTPO4310.Gainutdinov.Lib.pdb
+C:\Users\User\source\repos\KTPO4310.Gainutdinov\KTPO4310.Gainutdinov.Lib\obj\Debug\netcoreapp3.1\KTPO4310.Gainutdinov.Lib.csproj.AssemblyReference.cache

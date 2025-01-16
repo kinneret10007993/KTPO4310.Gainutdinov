@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KTPO4310.Gainutdinov.Lib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+663f83b1ac686f86a7ac914d199667a13a2946f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac02533d54eb31fef0e26f1380c64cf24dcddf17")]
 [assembly: System.Reflection.AssemblyProductAttribute("KTPO4310.Gainutdinov.Lib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KTPO4310.Gainutdinov.Lib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
